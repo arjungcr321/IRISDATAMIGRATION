@@ -1,2 +1,4 @@
-package OutPutModel;public class IncidentExcelOutPutDto {
+package OutPutModel;
+
+public class IncidentExcelOutPutDto {
 }

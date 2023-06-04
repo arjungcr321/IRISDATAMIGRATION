@@ -1,2 +1,4 @@
-package Utility;public class DataFormatUtility {
+package Utility;
+
+public class DataFormatUtility {
 }

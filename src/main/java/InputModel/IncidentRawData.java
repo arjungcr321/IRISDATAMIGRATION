@@ -1,2 +1,5 @@
-package InputModel;public class IncidentRawData {
+package InputModel;
+
+public class IncidentRawData {
+
 }
